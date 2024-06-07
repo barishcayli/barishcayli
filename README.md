@@ -29,16 +29,18 @@
 
  ## Who am I?
  ``` Java
- class Barish {
+ class barishcayli{
 
-    String name= "Barış";
+    String name= "Barış Çaylı";
     int age= 21;
     String university= "Inonu University";
+
     void howLongHaveIBeenCoding(){
         while(age>17){
             System.out.println("write code");
         }
     }
+
 }
  ```
 
