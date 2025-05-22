@@ -3,7 +3,7 @@
 <hr>
 
 
-- 🌱 I’m currently learning **Spring boot, .net **
+- 🌱 I’m currently learning **Spring Boot, .net **
 
 - 📫 How to reach me **barscayli@gmail.com**
 
